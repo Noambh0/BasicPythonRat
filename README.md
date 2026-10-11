@@ -31,7 +31,7 @@ On the **client machine**, install required packages:
 2. open cmd or powershell
 3. run this command:
 ```bash
-cd path\to\your\basic-python-rat
+cd path\to\your\BasicPythonRat
 ```
 4. then run:
 ```bash
@@ -45,11 +45,11 @@ python -m pip install -r requirements.txt
 ##### on Linux and mac:
 1. open bash and run:
 ```bash
-git clone https://github.com/nbh02/basic-python-rat/edit/main/README.md
+git clone https://github.com/Noambh0/BasicPythonRat/tree/main
 ```
 2. run this command:
 ```bash
-cd basic-python-rat
+cd BasicPythonRat
 ```
 3. run:
 ```bash
